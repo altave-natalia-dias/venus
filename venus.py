@@ -1,4 +1,4 @@
-OxidationX
+venus apt
 
 # Instale as bibliotecas necessárias
 !pip install torch torchvision
