@@ -1,2 +1,2 @@
 # venus
-Software para detecção de corrosão 
+Software para detecção de corrosão em python.
